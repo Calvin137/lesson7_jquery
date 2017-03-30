@@ -13,7 +13,7 @@ Calvin Dominguez-Lay
 Project introduces jQuery framework
 
 ### View Project:
-https://calvin137.github.io/lesson7_jquery/
+https://calvin137.github.io/lesson7_jquery/Lesson7_Assignment
 
 ### Lessons Learned in the Assignment:
 1. DOM Transversal
