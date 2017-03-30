@@ -1,0 +1,3 @@
+Used DOM Transversal to display the contents of the list
+Used the fade in animation for h3 element
+Modified the CSS background-color of the h3 elemnt with white and purple 
